@@ -9,7 +9,7 @@ mensRoute.get("/",async(req,res)=>{
         const allPost = await MensModel.find({userID})
         res.send(allPost);
     } catch (err) {
-        res.send({"msg":"error in fetching","error":err})
+        res.send({"msg":"Error in fetching","error":err})
     }
 })
 
