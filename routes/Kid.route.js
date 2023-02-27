@@ -49,6 +49,7 @@ kidRoute.delete("/delete/:id",async(req,res)=>{
         if(findUser[0].userID===userID){
             await KidsModel.findByIdAndDelete(ID);
             res.send({"msg":"delete successfully"}); 
+            res.send({"msg":"Delete successfully"}); 
         }else{
             res.send({"msg":"You are not authorized"})
         }
