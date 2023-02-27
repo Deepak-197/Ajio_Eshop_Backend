@@ -13,6 +13,16 @@ mensRoute.get("/",async(req,res)=>{
     }
 })
 
+mensRoute.get("/:id",async(req,res)=>{
+    const userID = req.params.userID;
+    try {
+        const allPost = await MensModel.find({_id:userID})
+        res.send(allPost);
+    } catch (err) {
+        res.send({"msg":"error in fetching","error":err})
+    }
+})
+
 
 mensRoute.post("/create",async(req,res)=>{
     const post = req.body;
