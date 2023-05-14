@@ -25,3 +25,10 @@ Backend Tech Stack:- [N(E/X)M]
 For deployment use cyclic.
 
 Deploy Link:- https://quaint-pink-cap.cyclic.app/
+
+Base api:- https://odd-deer-hoodie.cyclic.app/
+
+Category:-
+              kids
+              mens
+              womens
