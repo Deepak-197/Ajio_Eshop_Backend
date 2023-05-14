@@ -30,8 +30,8 @@ Base api:- https://odd-deer-hoodie.cyclic.app/
 
 Category:- 
     </br>
-             <li> /users </br></li>
-             <li>  /kids </br></li>
-             <li>  /mens </br></li>
-             <li>  /womens </br></li>
-             <li>  /cart </br></li>
+             <li> <a href="https://quaint-pink-cap.cyclic.app/users">/users</a> </br></li>
+             <li> <a href="https://quaint-pink-cap.cyclic.app/kids"> /kids</a> </br></li>
+             <li> <a href="https://quaint-pink-cap.cyclic.app/mens"> /mens</a> </br></li>
+             <li> <a href="https://quaint-pink-cap.cyclic.app/womens"> /womens</a> </br></li>
+             <li> <a href="https://quaint-pink-cap.cyclic.app/cart"> /cart</a> </br></li>
