@@ -29,6 +29,6 @@ Deploy Link:- https://quaint-pink-cap.cyclic.app/
 Base api:- https://odd-deer-hoodie.cyclic.app/
 
 Category:-
-              kids
-              mens
-              womens
+              kids </br>
+              mens </br>
+              womens </br>
