@@ -28,9 +28,10 @@ Deploy Link:- https://quaint-pink-cap.cyclic.app/
 
 Base api:- https://odd-deer-hoodie.cyclic.app/
 
-Category:-
-              /users </br>
-              /kids </br>
-              /mens </br>
-              /womens </br>
-              /cart </br>
+Category:- 
+    </br>
+             <li> /users </br></li>
+             <li>  /kids </br></li>
+             <li>  /mens </br></li>
+             <li>  /womens </br></li>
+             <li>  /cart </br></li>
